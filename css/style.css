@@ -82,6 +82,11 @@ nav{
 	list-style-type: none;
 	padding: 10px;
 	margin: .05em;
+	background-color:#000;
+	color:#004669;
+	text-decoration:none;
+	padding:10px 12px;
+	display:block;
 }
 
 #lectura a{
@@ -102,7 +107,7 @@ nav{
 	background-color:#000;
 	color:#fff;
 	text-decoration:none;
-	/*padding:10px 12px;*/
+	padding:10px 12px;
 	display:block;
 }
 
