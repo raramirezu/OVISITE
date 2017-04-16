@@ -99,7 +99,7 @@ nav{
 }
 
 #contenedor li a {
-	background-color:#000;
+	background-color: #f9f9f9; /* Fondo de las pestañas */
 	color:#fff;
 	text-decoration:none;
 	padding:10px 12px;
@@ -107,7 +107,7 @@ nav{
 }
 
 #contenedor li a:hover {
-	background-color:#004669;
+	background-color:#004669;/* Fondo de las pestañas al pasar el cursor por encima */
 }
 
 #contenedor li ul {
