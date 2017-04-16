@@ -100,7 +100,8 @@ nav{
 
 #contenedor li a {
 	background-color: #f9f9f9; /* Fondo de las pestañas */
-	color:#fff;
+	color: 004669; /* Color del texto de las pestañas */
+	font-size: .25em; /* Tamaño del texto de las pestañas */
 	text-decoration:none;
 	padding:10px 12px;
 	display:block;
