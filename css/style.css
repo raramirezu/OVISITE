@@ -74,7 +74,7 @@ nav{
 	list-style: none;
 }
 
-#lectura li a {
+#lectura li {
 	/*display: inline-block;
 	border: 2px solid;
 	padding: .25em;*/
@@ -111,7 +111,7 @@ nav{
 }
 
 #contenedor li a:hover {
-	background-color:#004669;/* Fondo de las pestañas al pasar el cursor por encima */
+	background-color:#f9f9f9;/* Fondo de las pestañas al pasar el cursor por encima */
 }
 
 #contenedor li ul {
