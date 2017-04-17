@@ -82,6 +82,9 @@ nav{
 	list-style-type: none;
 	padding: 10px;
 	margin: .05em;
+	border-radius: .25em;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
 	/*text-decoration: none;
 	font-size: 25px;
 	color: #004669;*/
