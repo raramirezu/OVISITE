@@ -104,14 +104,14 @@ nav{
 #contenedor li a {
 	background-color: #004669; /* Fondo de las pestañas */
 	color: white; /* Color del texto de las pestañas */
-	font-size: 1.7em; /* Tamaño del texto de las pestañas */
-	text-decoration:none;
+	font-size: 1.5em; /* Tamaño del texto de las pestañas */
+	text-decoration: none;
 	padding:10px 12px;
 	display:block;
 }
 
 #contenedor li a:hover {
-	background-color:#f9f9f9;/* Fondo de las pestañas al pasar el cursor por encima */
+	background-color:#004669;/* Fondo de las pestañas al pasar el cursor por encima */
 }
 
 #contenedor li ul {
